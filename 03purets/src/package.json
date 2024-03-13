@@ -1,0 +1,13 @@
+{
+  "name": "03purets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "starter": "lite-server"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
